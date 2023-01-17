@@ -87,6 +87,7 @@ html {
    align-items: center;
    background: url('../img/bg12.jpg') no-repeat center center/cover;
    height: 75vh;
+   opacity: 0.9;
 }
 
 #home h1 {
